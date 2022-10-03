@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CVdaZN/pj-NA/issues"
   },
-  "homepage": "https://github.com/CVdaZN/pj-NA#readme"
+  "homepage": "https://github.com/CVdaZN/pj-NA#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
